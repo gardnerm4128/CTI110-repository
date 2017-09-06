@@ -13,3 +13,4 @@ annualProfit = 0.23 * totalSales
 
 #print the profit amount
 print(annualProfit)
+ 
