@@ -6,7 +6,7 @@
 # Suggested variables: totalSales, annualProfit
 
 # ask the user for total sales
-totalSales = int(input("Type the total sales: "))
+totalSales = 100
 
 #calculate the profit amount
 annualProfit = 0.23 * totalSales
